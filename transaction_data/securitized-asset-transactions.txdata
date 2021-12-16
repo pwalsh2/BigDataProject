@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "securitizedAssetExists",
+        "transactionLabel": "A test securitizedAssetExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createSecuritizedAsset",
+        "transactionLabel": "A test createSecuritizedAsset transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readSecuritizedAsset",
+        "transactionLabel": "A test readSecuritizedAsset transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateSecuritizedAsset",
+        "transactionLabel": "A test updateSecuritizedAsset transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteSecuritizedAsset",
+        "transactionLabel": "A test deleteSecuritizedAsset transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
