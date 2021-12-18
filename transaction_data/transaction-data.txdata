@@ -1,0 +1,25 @@
+[
+    {
+        "transactionName": "updateSecuritizedAsset",
+        "transactionLabel": "t1",
+        "arguments": [
+            "Container_1",
+            ["buy", 1000],
+            ""
+        ]
+       
+    },
+    {
+        "transactionName": "updateSecuritizedAsset",
+        "transactionLabel": "t1",
+        "arguments": [
+            "Container_1",
+            ["sell",
+            1001],
+            ""
+            ]
+           
+        
+       
+    }
+]
